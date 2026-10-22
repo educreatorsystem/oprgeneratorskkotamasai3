@@ -1,0 +1,31 @@
+{
+  "id": "./",
+  "name": "SMART OPR GENERATOR — SEKOLAH KEBANGSAAN KOTA MASAI 3",
+  "short_name": "OPR SKKM3",
+  "description": "Sistem penjana One Page Report (OPR) dan kalendar program Sekolah Kebangsaan Kota Masai 3.",
+  "lang": "ms-MY",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f1f5f9",
+  "theme_color": "#0a3651",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "https://iili.io/nOblZX9.md.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://iili.io/nOblZX9.md.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
