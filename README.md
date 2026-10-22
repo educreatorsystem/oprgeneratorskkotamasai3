@@ -5,7 +5,7 @@ Pakej sistem Jana OPR **PWA untuk GitHub Pages**, dengan header ilustrasi penuh 
 ## Konfigurasi
 
 - **Nama sekolah:** SEKOLAH KEBANGSAAN KOTA MASAI 3
-- **Google Sheet ID:** `1hzwCXFBHv34DQTk9fGc8mHuIvRX1aRHV5Hk`
+- **Google Sheet ID:** `1hzwCXFBHv34DQTk9fGc8mHuIvRX1aRHV5HkZdq6eSZY`
 - **URL Web App Apps Script:** https://script.google.com/macros/s/AKfycbzlhg4gTlwbKcyHC0qAPbK1TgQxUDXAXTxhzgM7YhmA54P-kLr6JHDAQSOjVujyGRZ_/exec
 - **Folder Google Drive gambar:** `1ZNoId-SdoeY7aBAFFplJjLWiLLPzQ91Z`
 - **Lencana sekolah:** https://iili.io/nOblZX9.md.png

@@ -1,5 +1,5 @@
 /* SMART OPR — SK Kota Masai 3. App shell sahaja disimpan offline. */
-const CACHE_NAME = 'opr-sk-kota-masai-3-v1-20261022';
+const CACHE_NAME = 'opr-sk-kota-masai-3-v2-20261022';
 const CACHE_PREFIX = 'opr-sk-kota-masai-3-';
 const APP_SHELL = ['./', './index.html', './manifest.webmanifest', './smart-opr-header.png'];
 
